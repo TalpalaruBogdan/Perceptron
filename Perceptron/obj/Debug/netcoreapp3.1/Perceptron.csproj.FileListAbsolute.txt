@@ -1,0 +1,11 @@
+C:\Users\bogda\source\repos\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.csprojAssemblyReference.cache
+C:\Users\bogda\source\repos\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.AssemblyInfo.cs
+C:\Users\bogda\source\repos\Perceptron\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.exe
+C:\Users\bogda\source\repos\Perceptron\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.deps.json
+C:\Users\bogda\source\repos\Perceptron\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.runtimeconfig.json
+C:\Users\bogda\source\repos\Perceptron\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.runtimeconfig.dev.json
+C:\Users\bogda\source\repos\Perceptron\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.dll
+C:\Users\bogda\source\repos\Perceptron\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.pdb
+C:\Users\bogda\source\repos\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.dll
+C:\Users\bogda\source\repos\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.pdb
